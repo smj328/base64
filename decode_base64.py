@@ -6,6 +6,10 @@ import sys
 from itertools import product
 import binascii
 
+# 这是我的第一次修改
+
+
+
 def try_decode_base64(encoded_str):
     """尝试多种方式解码base64字符串"""
     results = []
